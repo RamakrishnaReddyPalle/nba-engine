@@ -6,7 +6,7 @@ This repository hosts a complete end-to-end **Next Best Action Engine** designed
 
 ## **📦 Dataset**
 
-We use the [Twitter Customer Support Dataset (TWSC)](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter/data) from Kaggle. It contains:
+I used the [Twitter Customer Support Dataset (TWSC)](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter/data) from Kaggle. It contains:
 - Tweet threads between customers and brands
 - Timestamps and message directions
 - Metadata useful for conversation flow extraction
