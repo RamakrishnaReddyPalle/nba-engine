@@ -1,6 +1,7 @@
 # **Next Best Action (NBA) Engine for Twitter Customer Support**
 
-This repository hosts a complete end-to-end **Next Best Action Engine** designed to enhance customer service on Twitter. It reads real customer support interactions, analyzes user behavior, and generates intelligent response strategies using an LLM-based decision engine.
+This repository hosts a complete end-to-end **Next Best Action Engine** designed to enhance customer service on Twitter. It reads real customer support interactions, analyzes user behavior, and generates intelligent response strategies using an LLM-based decision engine.\n
+- [Problem Statement](https://riverline.notion.site/ml-assignment)
 
 ---
 
